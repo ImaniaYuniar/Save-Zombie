@@ -2,11 +2,11 @@
 Project WIT Digitalent Kominfo
 
 ## Running
-Clone the project.
+1. Clone the project.
+2. Open the folder.
+3. python main.py
 
-Open the folder.
-
-python main.py
+or
 
 $ pip install -r requirements.txt
 
