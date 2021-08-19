@@ -14,10 +14,10 @@ Youtube project link: https://youtu.be/T0rFvAnYQPc
 Space: Jump
 
 ## Contribution
-Alya Rahma
+Alya Rahma : https://github.com/Alyaanita
 
-Fina Syaihana
+Fina Syaihana : https://github.com/finasyaihana
 
-Imania Yuniar
+Imania Yuniar : https://github.com/ImaniaYuniar
 
-Yosie Sesbania Gewap
+Yosie Sesbania Gewap : https://github.com/YosieSG
