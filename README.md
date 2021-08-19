@@ -10,6 +10,9 @@ Youtube project link: https://youtu.be/T0rFvAnYQPc
 2. Open the folder.
 3. Run main.ipynb
 
+## Requirements
+pip install -r requirements.txt
+
 ## Controls
 Space: Jump
 
