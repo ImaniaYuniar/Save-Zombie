@@ -13,3 +13,11 @@ Youtube project link: https://youtu.be/T0rFvAnYQPc
 ## Controls
 Space: Jump
 
+## Contribution
+Alya Rahma
+
+Fina Syaihana
+
+Imania Yuniar
+
+Yosie Sesbania Gewap
