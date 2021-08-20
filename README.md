@@ -9,10 +9,16 @@ Github project page: https://github.com/ImaniaYuniar/Save-Zombie
 
 Youtube project link: https://youtu.be/T0rFvAnYQPc
 
+##User Interface
+![image](https://user-images.githubusercontent.com/23459072/130160529-ae5a9d49-59e6-4d9a-9e9f-36cac60d8b11.png)
+- Untuk memulai permainan tekan "Mulai Permainannya!"
+
 ## Running
 1. Clone the project.
 2. Open the folder.
-3. Run main.ipynb
+3. Run main.ipynb.
+
+![image](https://user-images.githubusercontent.com/23459072/130160716-1f55fdd2-b8af-42ae-a515-0ebac1eb050b.png)
 
 ## Controls
 Space: Jump
