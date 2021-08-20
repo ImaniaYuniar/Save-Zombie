@@ -3,11 +3,11 @@ Save Zombie merupakan judul game untuk final project WIT Digitalent Kominfo kami
 
 Save Zombie sesuai dengan namanya, game ini bercerita tentang upaya seorang zombie untuk bertahan dari dari serangan musuh (penyihir). Dalam game kami, terdapat penambahan rintangan seperti pengejar (penyihir) yang mengeluarkan serangan yang ditembak lurus sehingga Zombie sebagai karakter utama harus mampu menghindari serangan penyihir dan melewati rintangan yang harus dilewati dengan cara melompat. Misi dalam game ini adalah mencapai finish dengan selamat serta mengumpulkan diamond sebanyak banyaknya sebagai hasil scoring yang akan diterima player. Para penyintas siap menantang nyali Anda!
 
-![image](https://user-images.githubusercontent.com/23459072/130159589-7cd0d5e7-6e44-410e-b0dc-61440396d582.png)
-
 Github project page: https://github.com/ImaniaYuniar/Save-Zombie
 
 Youtube project link: https://youtu.be/T0rFvAnYQPc
+
+![image](https://user-images.githubusercontent.com/23459072/130159589-7cd0d5e7-6e44-410e-b0dc-61440396d582.png)
 
 ## Running
 1. Clone the project.
