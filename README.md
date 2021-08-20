@@ -7,7 +7,7 @@ Github project page: https://github.com/ImaniaYuniar/Save-Zombie
 
 Youtube project link: https://youtu.be/T0rFvAnYQPc
 
-![image](https://user-images.githubusercontent.com/23459072/130159589-7cd0d5e7-6e44-410e-b0dc-61440396d582.png)
+![image](https://user-images.githubusercontent.com/23459072/130159696-fdeaae4e-37cc-4ed0-9d44-975021b0fb0b.png)
 
 ## Running
 1. Clone the project.
