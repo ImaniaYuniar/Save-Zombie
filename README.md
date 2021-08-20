@@ -9,6 +9,11 @@ Youtube project link: https://youtu.be/T0rFvAnYQPc
 
 ![image](https://user-images.githubusercontent.com/23459072/130159696-fdeaae4e-37cc-4ed0-9d44-975021b0fb0b.png)
 
+## Variant Game
+Game ini berjenis side scrolling game dengan tema horror yang dapat dimainkan oleh one player.
+
+![image](https://user-images.githubusercontent.com/23459072/130160033-b162a2b4-6b1a-497f-8b72-de765b665a54.png)
+
 ## Running
 1. Clone the project.
 2. Open the folder.
