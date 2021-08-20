@@ -18,7 +18,7 @@ Youtube project link: https://youtu.be/T0rFvAnYQPc
 1. Clone the project.
 2. Open the folder.
 3. Run main.ipynb.
-4. To start the game click "Mulai Permainannya!.
+4. To start the game click "Mulai Permainannya!" button.
 
 ## Controls
 Space: Jump
