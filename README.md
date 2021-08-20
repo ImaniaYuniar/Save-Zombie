@@ -9,9 +9,10 @@ Github project page: https://github.com/ImaniaYuniar/Save-Zombie
 
 Youtube project link: https://youtu.be/T0rFvAnYQPc
 
-##User Interface
+## User Interface
+- To start the game click "Mulai Permainannya!"
 ![image](https://user-images.githubusercontent.com/23459072/130160529-ae5a9d49-59e6-4d9a-9e9f-36cac60d8b11.png)
-- Untuk memulai permainan tekan "Mulai Permainannya!"
+
 
 ## Running
 1. Clone the project.
