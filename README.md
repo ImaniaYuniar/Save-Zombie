@@ -18,7 +18,7 @@ Youtube project link: https://youtu.be/T0rFvAnYQPc
 2. Open the folder.
 3. Run main.ipynb.
 
-![image](https://user-images.githubusercontent.com/23459072/130160716-1f55fdd2-b8af-42ae-a515-0ebac1eb050b.png)
+![image](https://user-images.githubusercontent.com/23459072/130160859-44e1a71e-705e-4c0d-a7d8-b76558022f9d.png)
 
 ## Controls
 Space: Jump
