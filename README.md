@@ -16,10 +16,10 @@ Save Zombie sesuai dengan namanya, game ini bercerita tentang upaya seorang zomb
 Space: Jump
 
 ## Contribution
-Alya Rahma Yunita : https://github.com/Alyaanita
+Alya Rahma Yunita: https://github.com/Alyaanita
 
-Fina Syaihana : https://github.com/finasyaihana
+Fina Syaihana Rabania Jauhari: https://github.com/finasyaihana
 
-Imania Yuniar : https://github.com/ImaniaYuniar
+Imania Yuniar: https://github.com/ImaniaYuniar
 
-Yosie Sesbania Gewap : https://github.com/YosieSG
+Yosie Sesbania Gewap: https://github.com/YosieSG
